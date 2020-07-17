@@ -1,0 +1,1 @@
+int sumOfRange(int);
